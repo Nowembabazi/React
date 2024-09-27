@@ -100,12 +100,12 @@ const Tour = () => {
           UATE will be hosted in the bustling East Africa city of Kampala, where vibrant colour, a
             cacophony of sound, a diverse population, rich past, strong cultural traditions and promise
           for the future combine in an unforgettable visitor experience.
-         <br/>
+        
          <br/>
          The host venue, the historically significant Kololo Ceremonial Grounds, located in the heart
            of the city, will provide guests with easy access to accommodation suited to every taste as
            well as to essential social amenities.
-           <br />
+           
            <br />
            When the expo ends, you will want to linger, and with Uganda’s lush forests, national parks,
            mountain gorillas, scenic sites, thrilling water activities, abundant bird life and colourful

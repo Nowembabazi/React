@@ -15,7 +15,7 @@ const Shop = () => {
               <div className="col-md-7">
                 {/*====== Show Text ======*/}
                 <div className="show-text mb-20">
-                  <h6>Showing Results 09 Of 55</h6>
+                  
                 </div>
               </div>
               <div className="col-md-5">
